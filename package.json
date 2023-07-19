@@ -1,0 +1,7 @@
+{
+  "name": "ffmpeg-static-dummy",
+  "version": "0.0.1",
+  "description": "drop-in replacement for ffmpeg-static that just returns `ffmpeg`",
+  "main": "index.js",
+  "license": "CC0-1.0"
+}
